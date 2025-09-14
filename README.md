@@ -52,8 +52,3 @@ All dataset files contain two attributes, `X` and `y`.
 
 
 
-
-<div id="zhangFacilitatedLowrankMultiview2023"></div>
-
-[25] G.-Y. Zhang, D. Huang, and C.-D. Wang, “Facilitated low-rank multi-view subspace clustering,” _Knowledge-Based Systems_, vol. 260, p. 110141, Jan. 2023, doi: [10.1016/j.knosys.2022.110141](https://doi.org/10.1016/j.knosys.2022.110141).
-
